@@ -11,3 +11,6 @@
 - Star 和 Fork 支持一下～  
 - 有好文推荐？直接提交 Pull Request：添加文章链接 + 简短描述 + 为什么值得读。  
 让我们共同打造一个高质量的文章分享社区！
+
+## Posts
+#1 [我们如何构建多智能体研究系统](articles/How%20we%20built%20our%20multi-agent%20research%20system.md) 2026-1-6 `#anthropic #multi-agent #翻译`
