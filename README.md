@@ -13,4 +13,4 @@
 让我们共同打造一个高质量的文章分享社区！
 
 ## Posts
-#1 [我们如何构建多智能体研究系统](articles/How%20we%20built%20our%20multi-agent%20research%20system.md) 2026-1-6 `#anthropic #multi-agent #翻译`
+#1 [我们如何构建多智能体研究系统](articles/How%20we%20built%20our%20multi-agent%20research%20system.md) 2026-1-6 `#anthropic` `#multi-agent` `#翻译`
